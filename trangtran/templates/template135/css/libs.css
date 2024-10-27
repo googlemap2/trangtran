@@ -90,7 +90,7 @@ img {width: 100%;max-width: 100%;height: auto;}
 .event-section .event-item{margin-bottom: 20px;background-color: #e9e2ce;}
 .event-section .event-item:last-child{margin-bottom:0;}
 .event-section .event-item img{border-bottom-left-radius: var(--bs-border-radius);border-top-left-radius: var(--bs-border-radius);}
-.event-section .event-item .image-wrap{max-width: 36%;width: 36%;min-width: 36%;background-size: cover;background-repeat: no-repeat;background-position: center;}
+.event-section .event-item .image-wrap{max-width: 36%;width: 36%;min-width: 36%;background-size: contain;background-repeat: no-repeat;background-position: center;}
 
 .story-section .timeline-card {position: relative;}
 .story-section .timeline-card:first-child {padding-top: 0!important;}
