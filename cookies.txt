@@ -1,4 +1,4 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-phatlinh3011.iwedding.info	TRUE	/	FALSE	1999999999	PHPSESSID	d0hqt573rsvu179c8cs7j32gq2
+trangtran	TRUE	/	FALSE	1999999999	PHPSESSID	d0hqt573rsvu179c8cs7j32gq2
 
